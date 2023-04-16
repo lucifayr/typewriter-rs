@@ -1,9 +1,14 @@
 [package]
-name = "typewriter"
-version = "0.1.0"
+name = "typewriter-cli"
+version = "1.0.0"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+authors = ["Lucy Gschwantner lucygschwantner@gmail.com"]
+license = "MIT"
+description = "A small CLI tool to create a typewriter effect"
+repository = "https://github.com/jackboxx/typewriter-cli"
+readme = "README.md"
+keywords = ["typewriter", "cli", "terminal"]
+categories = ["command-line-tool"]
 
 [dependencies]
 clap = { version = "4.2.2", features = ["derive"] }
