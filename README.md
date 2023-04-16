@@ -1,11 +1,11 @@
-# Typewriter CLI
+# Typewriter
 
 ## Installation
 ```sh
-cargo install typewriter-cli
+cargo install typewriter-rs
 ```
 
 ## Usage
 ```sh
-cat text.md | typewriter-cli
+cat text.md | typewriter-rs
 ```

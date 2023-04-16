@@ -235,7 +235,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "typewriter-cli"
+name = "typewriter-rs"
 version = "1.0.0"
 dependencies = [
  "clap",

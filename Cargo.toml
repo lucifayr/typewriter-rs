@@ -1,11 +1,11 @@
 [package]
-name = "typewriter-cli"
+name = "typewriter-rs"
 version = "1.0.0"
 edition = "2021"
 authors = ["Lucy Gschwantner lucygschwantner@gmail.com"]
 license = "MIT"
 description = "A small CLI tool to create a typewriter effect"
-repository = "https://github.com/jackboxx/typewriter-cli"
+repository = "https://github.com/jackboxx/typewriter-rs"
 readme = "README.md"
 keywords = ["typewriter", "cli", "terminal"]
 categories = ["command-line-utilities"]
