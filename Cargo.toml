@@ -8,7 +8,7 @@ description = "A small CLI tool to create a typewriter effect"
 repository = "https://github.com/jackboxx/typewriter-cli"
 readme = "README.md"
 keywords = ["typewriter", "cli", "terminal"]
-categories = ["command-line-tool"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.2.2", features = ["derive"] }
